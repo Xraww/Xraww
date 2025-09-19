@@ -43,7 +43,7 @@ Visit the live portfolio: [https://xraww.fr](https://xraww.fr)
 ## 📫 How to Reach Me
 
 I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out to me via:
-- **Email**: [contact.xraww@gmail.com](mailto:contact.xraww@gmail.com)
+- **Email**: [contact@xraww.fr](mailto:contact@xraww.fr)
 - **Twitter (X)**: [Xraaww](https://x.com/Xraaww)
 - **LinkedIn**: [Xraww](https://www.linkedin.com/in/Xraww/)
 - **Portfolio Website**: [xraww.fr](https://www.xraww.fr/)
