@@ -30,10 +30,10 @@ I'm working on an app for anime and manga fans
 
 ### » featured projects
 
-● [**anime-hub**](https://github.com/Xraww/anime-hub) — anime discovery platform [live](https://anime-hub-xraww.vercel.app/)<br>
+● [**anime-hub**](https://github.com/Xraww/anime-hub) — anime discovery platform ✦ [live](https://anime-hub-brown.vercel.app/)<br>
 ● [**Portfolio**](https://github.com/Xraww/Portfolio) — my personal portfolio website ✦ [live](https://www.xraww.fr/)<br>
 ● [**InvoiceMaker**](https://github.com/Xraww/InvoiceMaker) — invoice generation tool<br>
-● [**Conciergerie**](https://github.com/Xraww/Conciergerie) — website for "Conciergerie de l'Uzège"<br>
+● [**Conciergerie**](https://github.com/Xraww/Conciergerie) — website for "Conciergerie de l'Uzège" ✦ [live](https://www.uzes-conciergerie.fr/)<br>
 ● [**LolTracker**](https://github.com/Xraww/LolTracker) — league of legends stats tracker
 
 ---
